@@ -1,4 +1,5 @@
 # Leetcode 100 DSA Challenge
+- Author: Gobinda Adhikari
 <table>
         <tr>
             <th>Sl No.</th>
